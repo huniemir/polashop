@@ -1,0 +1,1 @@
+<p>Aby zapłacić za produkt wyślij sms o treści: {$id} na numer 7777</p>
